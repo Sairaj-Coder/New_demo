@@ -8,3 +8,7 @@ ii)red=>show changes that data is deleted or data is modified it shows how file 
 iii)green =>new changes
 iv)to delelte file click either open or edit the file and click on 3 dotes last option will be for deleting
 v))mltiple option to copy download are available there
+
+# clone
+ we have successfully clone note if file is private there is problem we need to verify it from user
+ when ever we will save then it will turn red/yellow showing->indicates changes are still remaining ex commit etc  
