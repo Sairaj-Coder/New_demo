@@ -7,3 +7,4 @@ i)add-->then--> commit(final saving)
 ii)red=>show changes that data is deleted or data is modified it shows how file previously was looking and how it is looking now
 iii)green =>new changes
 iv)to delelte file click either open or edit the file and click on 3 dotes last option will be for deleting
+v))mltiple option to copy download are available there
