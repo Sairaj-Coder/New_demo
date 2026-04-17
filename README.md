@@ -16,6 +16,11 @@ v))mltiple option to copy download are available there
 
 This repository serves as a practical guide for learning the fundamentals of Git and GitHub version control.
 
+# branches
+
+different developes are working on different things such as one is working on js, other css etc 
+so different branches are neccessarey read notes
+
 
 
 
